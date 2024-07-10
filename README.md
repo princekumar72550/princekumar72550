@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princekumar72550" alt="princekumar72550" /></a> </p>
 
-- 🔭 I’m currently working on **Django**
+- 🔭 I’m currently working on **Generative Ai**
 
 - 🌱 I’m currently learning **Python,Django...**
 
