@@ -49,8 +49,10 @@
     <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="50" height="50"/> </a>
     <a href="https://numpy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="50" height="50"/> </a>
     <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/> </a>
-    <a href="https://www.iiconsortium.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Industrial_Internet_Consortium_logo.svg" alt="IIoT" width="50" height="50"/> </a>
-</p>
+   <a href="https://www.iiconsortium.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Internet_of_Things.svg" alt="IIoT" width="50" height="50"/>
+</a>
+
 
 
 ---
