@@ -1,22 +1,29 @@
-<h1 align="center">Hi 👋, I'm Prince Kumar</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Prince+Kumar;A+Passionate+Data+Scientist+from+India!">
+</h1>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=princekumar72550&label=Profile%20views&color=0e75b6&style=flat" alt="princekumar72550" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=princekumar72550&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p align="center"> <a href="https://twitter.com/princek28381965" target="_blank"><img src="https://img.shields.io/twitter/follow/princek28381965?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a> </p>
+<p align="center">
+  <a href="https://twitter.com/princek28381965" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/princek28381965?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+</p>
 
 ---
 
-### 🚀 About Me:
+## 🚀 About Me:
 - 🔬 I’m currently working on [Email Spam Classifier](https://github.com/princekumar72550/Email-Spam-Classifier)
 - 📚 I’m currently learning **FastAPI, Python**
 - 💌 How to reach me: **work.kumarprince@gmail.com**
 
 ---
 
-<h3 align="center">🌍 Connect with Me:</h3>
+## 🌍 Connect with Me:
 <p align="center">
 <a href="https://twitter.com/princek28381965" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="50" /></a>
 <a href="https://www.linkedin.com/in/prince-kumar-5b3418258/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" /></a>
@@ -28,7 +35,7 @@
 
 ---
 
-<h3 align="center">🛠️ Languages and Tools:</h3>
+## 🛠️ Languages and Tools:
 <p align="center">
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> </a>
     <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50"/> </a>
@@ -45,7 +52,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats:</h3>
+## 📊 GitHub Stats:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=princekumar72550&show_icons=true&theme=radical" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=princekumar72550&theme=radical" alt="GitHub Streak" />
