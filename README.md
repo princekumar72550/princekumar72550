@@ -4,13 +4,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=princekumar72550&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center">
+  <a href="https://github.com/princekumar72550">
+    <img src="https://komarev.com/ghpvc/?username=princekumar72550&label=🔥+Profile+Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/princek28381965" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/princek28381965?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  <a href="https://www.linkedin.com/in/prince-kumar-5b3418258/" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Follow" />
   </a>
 </p>
 
@@ -25,7 +27,6 @@
 
 ## 🌍 Connect with Me:
 <p align="center">
-<a href="https://twitter.com/princek28381965" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="50" /></a>
 <a href="https://www.linkedin.com/in/prince-kumar-5b3418258/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" /></a>
 <a href="https://stackoverflow.com/users/25184213/prince-kumar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="40" width="50" /></a>
 <a href="https://www.kaggle.com/princekumar2694" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="50" /></a>
