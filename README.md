@@ -20,7 +20,7 @@
 
 ## 🚀 About Me:
 - 🔬 I’m currently working on [Email Spam Classifier](https://github.com/princekumar72550/Email-Spam-Classifier)
-- 📚 I’m currently learning **FastAPI, Python**
+- 📚 I’m currently learning **Machine Learning, Python**
 - 💌 How to reach me: **work.kumarprince@gmail.com**
 
 ---
