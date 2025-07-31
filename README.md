@@ -56,7 +56,7 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=princekumar72550&show_icons=true&theme=radical&hide_rank=true&card_width=400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princekumar72550&layout=compact&theme=radical&card_width=400" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princekumar72550&layout=compact&theme=radical&card_width=500&langs_count=10" alt="Top Languages" />
 </p>
 
 
