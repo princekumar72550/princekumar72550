@@ -2,16 +2,21 @@
 
 # Prince Kumar
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1500&color=1D9E75&center=true&vCenter=true&width=580&lines=AI+%26+Data+Science+Engineer;Full+Stack+Developer;Building+Scalable+Systems;bytestudio.in" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Prince+Kumar+%F0%9F%91%8B;AI+%26+Data+Science+Engineer+%F0%9F%93%8A;Full+Stack+Developer+%F0%9F%92%BB;Founder+%40+Byte+Studio+%F0%9F%9A%80;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=princekumar72550&label=Profile+Views&color=1D9E75&style=flat-square)](https://github.com/princekumar72550)
-[![GitHub Followers](https://img.shields.io/github/followers/princekumar72550?label=Followers&style=flat-square&color=1D9E75)](https://github.com/princekumar72550?tab=followers)
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="480" />
+
+[![Profile Views](https://komarev.com/ghpvc/?username=princekumar72550&label=Profile+Views&color=0e75b6&style=flat)](https://github.com/princekumar72550)
+[![GitHub Followers](https://img.shields.io/github/followers/princekumar72550?label=Followers&style=social)](https://github.com/princekumar72550?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/princekumar72550?affiliations=OWNER&style=social)](https://github.com/princekumar72550)
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ```python
 class PrinceKumar:
@@ -42,17 +47,17 @@ me.say_hi()
 
 ## 🌐 Byte Studio — Portfolio & Freelancing Platform
 
-> **[bytestudio.in](https://bytestudio.in)** — Building Scalable Systems for Real-World Impact
+<div align="center">
 
-Prince Kumar — AI & Data Science Engineer and Full Stack Developer focused on building scalable systems, intelligent automation, and high-performance data-driven solutions for modern businesses.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems+for+Real-World+Impact;AI+%26+Full+Stack+Development;Freelancing+%7C+Portfolio+%7C+Study+Hub;bytestudio.in" alt="Byte Studio" />
 
-| 150+ Projects | 500+ Study Materials | 50+ Team Members | 1.2k Monthly Downloads |
-|:---:|:---:|:---:|:---:|
-| Active Builds | Learning Hub | Global Collaborators | Resource Downloads |
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" />
 
 [![Visit Byte Studio](https://img.shields.io/badge/Visit_Byte_Studio-1D9E75?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bytestudio.in)
 [![Hire Me](https://img.shields.io/badge/Hire_Me-0F6E56?style=for-the-badge&logo=handshake&logoColor=white)](https://bytestudio.in/contact)
 [![Download CV](https://img.shields.io/badge/Download_CV-085041?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/uc?id=1BrAqpAac_8zigloIiLTY_D6yiEMCplHZ&export=download)
+
+</div>
 
 ---
 
@@ -60,18 +65,49 @@ Prince Kumar — AI & Data Science Engineer and Full Stack Developer focused on 
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/prince-kumar-5b3418258/">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" />
+</a>
+<a href="https://www.kaggle.com/princekumar2694">
+<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="60" />
+</a>
+<a href="https://leetcode.com/u/princekumar6695/">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" />
+</a>
+<a href="https://stackoverflow.com/users/25184213/prince-kumar">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" />
+</a>
+<a href="mailto:work.kumarprince@gmail.com">
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="60" />
+</a>
+<a href="https://bytestudio.in">
+<img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" width="60" />
+</a>
+
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-kumar-5b3418258/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/princekumar2694)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/princekumar6695/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25184213/prince-kumar)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.kumarprince@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1D9E75?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bytestudio.in)
+[![Portfolio](https://img.shields.io/badge/Byte_Studio-1D9E75?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bytestudio.in)
 
 </div>
 
 ---
 
 ## 💻 Tech Stack
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="70">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="70">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="70">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="70">
+</div>
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
@@ -167,8 +203,15 @@ Prince Kumar — AI & Data Science Engineer and Full Stack Developer focused on 
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" />
+
 *"First, solve the problem. Then, write the code."* — John Johnson
 
 **© 2026 Prince Kumar &nbsp;·&nbsp; [bytestudio.in](https://bytestudio.in)**
+
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
